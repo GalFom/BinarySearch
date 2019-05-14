@@ -29,9 +29,9 @@ public class BinarySearch {
         }
         if(lines.size()==1){
             if(lineToCompare.equals(lines.get(0))) {
-                нашли
+//                нашли
             } else {
-                не нашли
+//                не нашли
             }
 
         }
